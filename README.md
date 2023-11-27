@@ -11,4 +11,5 @@ En este proyecto utilizamos el editor de código *Visual Studio* HTML Y CSS.
   <li>Menú de footer</li>
 </ul>
 ### Vista Previa 
-![image](https://github.com/araloul/google-clone/assets/91640852/c3951498-f3df-4a65-af1e-07bbd189cb6f)
+![image](https://github.com/araloul/google-clone/assets/91640852/3f38666a-0650-4c62-9148-e91d0bedf556)
+
